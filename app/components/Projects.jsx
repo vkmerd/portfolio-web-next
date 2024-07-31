@@ -1,18 +1,5 @@
 export default function Projects(){
-    var video = document.getElementById("myVideo");
-
-if (video) {
-    video.addEventListener('loadedmetadata', function() {
-        this.play();
-    });
-
-    video.addEventListener('ended', function() {
-        this.currentTime = 0; 
-        this.play(); 
-    });
-} else {
-    console.error("Video element with id 'myVideo' not found.");
-}
+    
     return(
         <>
         <section class="projects-banner">
