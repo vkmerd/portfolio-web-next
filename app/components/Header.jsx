@@ -1,4 +1,4 @@
-import Image from 'next/image'
+
 export default function Header(){
     return(
         <header class="header">
@@ -7,7 +7,7 @@ export default function Header(){
                 
                 <div class="logo-text">
 
-                    <Image src="/logo-icons.png" alt="" />
+                    <img src="/logo-icons.png" alt="" />
                     <p>vkmerd</p>
                 </div>
 

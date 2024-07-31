@@ -5,35 +5,35 @@ export default function Yetenek(){
             <div class="containers">
                 <div class="services-flexs">
                     <div class="services-images">
-                        <Image src="assets/images/mert-ozturk.jpg" alt="" />
+                        <img src="/mert-ozturk.jpg" alt="" />
                     </div>
                     <div class="services-right">
                         <h2 class="services-title">Yetkinliklerim</h2>
                         <div class="services-grid">
                             <div class="services-img">
-                                <Image src="assets/images/html.png" alt="" />
+                                <img src="/html.png" alt="" />
                             </div>
                             <div class="services-img">
-                                <Image src="assets/images/css.png" alt="" />
+                                <img src="/css.png" alt="" />
                             </div>
                             <div class="services-img">
-                                <Image src="assets/images/js.png" alt="" />
+                                <img src="/js.png" alt="" />
                             </div>
                             <div class="services-img">
-                                <Image src="assets/images/phps.png" alt="" />
+                                <img src="/phps.png" alt="" />
                             </div>
                             <div class="services-img">
-                                <Image src="assets/images/react.png" alt="" />
+                                <img src="/react.png" alt="" />
                             </div>
                             <div class="services-img">
-                                <Image src="assets/images/wp.png" alt="" />
+                                <img src="/wp.png" alt="" />
                             </div>
                         </div>
                         <h2 class="services-title">Sizlere Sağlayacağım Hizmetler:</h2>
                         <div class="services-grids">
                             <div class="services-box">
                                 <div class="srvimg">
-                                    <Image src="assets/images/services-1.jpg" alt="" />
+                                    <img src="/services-1.jpg" alt="" />
                                 </div>
                                 <div class="srv-text">
                                     <h3 class="srv-title">Development</h3>
@@ -42,7 +42,7 @@ export default function Yetenek(){
                             </div>
                             <div class="services-box">
                                 <div class="srvimg">
-                                    <Image src="assets/images/services-1.jpg" alt="" />
+                                    <img src="/services-1.jpg" alt="" />
                                 </div>
                                 <div class="srv-text">
                                     <h3 class="srv-title">Development</h3>
